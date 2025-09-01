@@ -54,26 +54,34 @@ The objective is to explore the **Weather Conditions dataset** and extract meani
 
 ## 4. Exploratory Data Analysis
 
-### 1. Univariate Analysis
+### 1) Univariate Analysis
 - Distribution of temperature, humidity, and wind speed  
 - Frequency counts of weather conditions  
 
-### 2. Bivariate Analysis
+### 2) Bivariate Analysis
 - Relationship between temperature and humidity  
 - Weather condition vs. wind speed  
 
-### 3. Multivariate Analysis
+### 3) Multivariate Analysis
 - Heatmap of correlations between numerical variables  
 
-### 4. Outlier Detection
+### 4) Outlier Detection
 - Box plots and IQR method used for detecting outliers
 
-### 5. Outlier Treatment
+### 5) Outlier Treatment
 - log transformation and capping extreme values
 
 
 
-## 5. Conclusion
+## 5. About the Dataset
+- The dataset contains information on various weather conditions.  
+- It includes both categorical (e.g., Weather Condition type) and numerical features (e.g., Temperature, Humidity).
+- https://www.kaggle.com/datasets/ananthr1/weather-prediction
+
+
+
+
+## 6. Conclusion
 EDA revealed useful patterns in the dataset, confirmed assumptions about variable relationships, and prepared the data for future modeling tasks such as predictive analytics.
 
 
