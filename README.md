@@ -15,18 +15,15 @@ The contents of this project are divided into following topics which are listed 
 
 ## Table of Contents
 1. Introduction  
-2. Problem Statement  
-3. Python Libraries Used  
-4. About the Dataset  
-5. Data Preprocessing  
-6. Exploratory Data Analysis  
+2. Python Libraries
+3. Problem Statement     
+4. Exploratory Data Analysis  
    - Univariate Analysis  
    - Bivariate Analysis  
    - Multivariate Analysis  
    - Outlier Detection & Treatment
-7. Key Visualizations  
-8. Insights & Findings  
-9. Conclusion
+5. About the Dataset  
+6. Conclusion
 
 
 ## 1.  Introduction
